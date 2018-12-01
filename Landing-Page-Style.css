@@ -1,0 +1,14 @@
+#Background-Image {
+    color:cadetblue;
+    width:95%;
+    height: 520px;
+    margin: 10px;
+}
+
+#navbar {
+    display: block;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    
+}
